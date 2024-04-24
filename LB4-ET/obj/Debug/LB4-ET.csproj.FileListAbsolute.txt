@@ -1,0 +1,7 @@
+D:\Laboratories-Algorithms\LB4-ET\bin\Debug\LB4-ET.exe.config
+D:\Laboratories-Algorithms\LB4-ET\bin\Debug\LB4-ET.exe
+D:\Laboratories-Algorithms\LB4-ET\bin\Debug\LB4-ET.pdb
+D:\Laboratories-Algorithms\LB4-ET\obj\Debug\LB4-ET.csproj.AssemblyReference.cache
+D:\Laboratories-Algorithms\LB4-ET\obj\Debug\LB4-ET.csproj.CoreCompileInputs.cache
+D:\Laboratories-Algorithms\LB4-ET\obj\Debug\LB4-ET.exe
+D:\Laboratories-Algorithms\LB4-ET\obj\Debug\LB4-ET.pdb
